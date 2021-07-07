@@ -22,4 +22,5 @@ namespace :db do
     File.delete('db/schema.rb')
     drop_db
   end
+  
 end
